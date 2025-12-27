@@ -74,8 +74,8 @@ Create a New Flutter Project<br>
 and
 ### *1. Clone the repository*
 bash
-git clone https://github.com/retrospecs0801/AirGuard.git
-cd AirGuard
+git clone https://github.com/retrospecs0801/air_guard
+cd air_guard
 
 
 ---
