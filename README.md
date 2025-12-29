@@ -6,7 +6,7 @@ This app helps users understand how much polluted air they personally breathe ev
 At the end of the day, the app also generates a personalized recovery plan (breathing + diet suggestions) using the Gemini API.
 
 ---
-
+# link for testing  https://beamish-dango-7939f4.netlify.app/
 ## 📚Table of Contents  
 - [Features](#features)
 - [Tech Stack & Dependencies](#tech-stack--dependencies)  
@@ -20,7 +20,7 @@ At the end of the day, the app also generates a personalized recovery plan (brea
 ## 🧩Features
 
 ### *1. Real-Time AQI Tracking*
-- Fetches live AQI from OpenAQ API  
+- Fetches live AQI from WAQI API  
 - Shows current AQI and PM2.5 around the user  
 
 
