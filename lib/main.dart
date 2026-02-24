@@ -1,7 +1,7 @@
 // lib/main.dart
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart'; // Add this import
+import 'package:flutter/services.dart'; 
 import 'package:geolocator/geolocator.dart';
 
 import 'services/location_service.dart';
@@ -161,7 +161,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
     });
   }
 
-  // NEW: Handle keyboard input for testing
+  //  Handle keyboard input for testing
   void _handleKeyPress(KeyEvent event) {
     if (event is KeyDownEvent) {
       double? newDose;
